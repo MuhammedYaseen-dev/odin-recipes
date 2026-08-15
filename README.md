@@ -1,1 +1,2 @@
 # odin-recipes
+I'm currently learning full stack developement and now I completed the html foundation lesson on odin project. As a first project, I'm generating this repository from github to start the journey of coding and debugging.
