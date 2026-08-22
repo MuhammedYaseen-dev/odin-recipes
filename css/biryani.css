@@ -1,0 +1,16 @@
+.heading{
+    color: white;
+    text-align: center;
+    background-color: orange;
+    border-radius: 15px;
+}
+.bir{
+    display: block;
+    margin: 0 auto;
+    border:5px solid orange;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+.des{
+    text-align: center;
+}

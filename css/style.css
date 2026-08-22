@@ -1,0 +1,22 @@
+.heading1{
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;
+}
+.recipe-box{
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 500px;
+    color: yellow;
+    background-color: orange;
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+.text-element{
+    width: 1000px;
+    margin: 0 50px 0;
+}
